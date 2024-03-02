@@ -15,4 +15,7 @@ So mid is the possible value of k only if ∑used <= ∑sum for each element fro
 
 ## Time Complexity
 O(t*n*logn)
+
+### Rating
+1400
  
